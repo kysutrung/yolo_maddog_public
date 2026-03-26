@@ -14,6 +14,8 @@ Hệ thống là một nền tảng phần mềm kết hợp với mô hình đi
 
 Giải pháp cho phép chuyển đổi nhiều cấu hình drone khác nhau thành phương tiện bay tự động có khả năng thực hiện nhiệm vụ theo kịch bản được thiết lập trước hoặc được điều phối theo thời gian thực. Hệ thống hỗ trợ quản lý nhiệm vụ, điều hướng tự động, phối hợp tác vụ và thích ứng với nhiều mục đích sử dụng như cứu trợ, giám sát, hậu cần hoặc các nhiệm vụ chuyên biệt khác. Với kiến trúc linh hoạt và khả năng tích hợp cao, giải pháp góp phần nâng cao mức độ tự động hóa, tính sẵn sàng triển khai và hiệu quả vận hành của drone trong môi trường thực tế.
 
+![Photo02](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/quy_dao_01.png)
+
 ## 💻 Danh Sách Các Chức Năng Của Hệ Thống
 
 __Phần Mềm Điều Khiển__
