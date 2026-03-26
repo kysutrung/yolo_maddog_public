@@ -1,4 +1,4 @@
-![Photo01](https://github.com/kysutrung/yolo_watchdog/blob/main/mediaa/repo_cover.jpg)
+![Photo01](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/repo_cover_yolo_maddog.png)
 
 # YOLO MadDog
 
