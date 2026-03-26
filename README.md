@@ -12,9 +12,21 @@ Keyword: automation, computer vision, rescue drone, kamikaze drone.
 
 Hệ thống là một nền tảng phần mềm kết hợp với mô hình điều khiển tự hành, được phát triển nhằm mở rộng năng lực cho các drone sử dụng [ArduPilot](https://github.com/ArduPilot) - một trong những nền tảng drone được sử dụng phổ biến nhất hiện nay. 
 
-Giải pháp cho phép chuyển đổi nhiều cấu hình drone khác nhau thành phương tiện bay tự động có khả năng thực hiện nhiệm vụ theo kịch bản được thiết lập trước hoặc được điều phối theo thời gian thực. Hệ thống hỗ trợ quản lý nhiệm vụ, điều hướng tự động, phối hợp tác vụ và thích ứng với nhiều mục đích sử dụng như cứu trợ, giám sát, hậu cần hoặc các nhiệm vụ chuyên biệt khác. Với kiến trúc linh hoạt và khả năng tích hợp cao, giải pháp góp phần nâng cao mức độ tự động hóa, tính sẵn sàng triển khai và hiệu quả vận hành của drone trong môi trường thực tế.
+Giải pháp cho phép chuyển đổi nhiều cấu hình drone khác nhau thành phương tiện bay tự động có khả năng thực hiện nhiệm vụ theo kịch bản được thiết lập trước hoặc được điều phối theo thời gian thực.
 
-![Photo02](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/quy_dao_01.png)
+![Photo02](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/quy_dao_01.jpg)
+
+__Giới Thiệu Về Ardupilot__
+
+ArduPilot là nền tảng điều khiển tự động mã nguồn mở ra đời từ năm 2009, hiện được phát triển bởi một cộng đồng toàn cầu rất lớn với hàng trăm người đóng góp và được sử dụng rộng rãi trong nhiều hệ thống không người lái.
+
+![Photo03](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/ardipilot.jpg)
+
+__Sứ Mệnh Của Phần Mềm__
+
+Hệ thống hỗ trợ quản lý nhiệm vụ, điều hướng tự động, phối hợp tác vụ và thích ứng với nhiều mục đích sử dụng như cứu trợ, giám sát, hậu cần hoặc các nhiệm vụ chuyên biệt khác. Với kiến trúc linh hoạt và khả năng tích hợp cao, giải pháp góp phần nâng cao mức độ tự động hóa, tính sẵn sàng triển khai và hiệu quả vận hành của drone trong môi trường thực tế.
+
+![Photo036](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/app_ui.jpg)
 
 ## 💻 Danh Sách Các Chức Năng Của Hệ Thống
 
