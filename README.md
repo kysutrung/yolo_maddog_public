@@ -62,6 +62,9 @@ __Mô Hình Thiết Lập Phần Cứng__
 - [x] Nhận lệnh điều khiển từ trạm mặt đất
 - [x] Truyền trạng thái drone về trạm mặt đất
 
+## 📥 Mô Hình Hệ Thống
+
+
 
 ## 📥 Yêu Cầu Hệ Thống
 
@@ -71,11 +74,11 @@ __Mô Hình Thiết Lập Phần Cứng__
 - Tay cầm chơi game hoặc tay cầm điều khiển drone chuyên dụng
 - Bộ chuyển đổi VRX sang HDMI
 
-## 📥 Installation Guide
+## 📥 Hướng Dẫn Cài Đặt
 
 __Source code của dự án có trong repo này__
 
 
-## 📞 Support
+## 📞 Hỗ Trợ
 
 __Liên Hệ Trực Tiếp Để Được Hỗ Trợ Cài Đặt !!!__
