@@ -64,7 +64,7 @@ __Mô Hình Thiết Lập Phần Cứng__
 
 ## 📥 Mô Hình Hệ Thống
 
-
+![Photo036](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/system_diagram.jpg)
 
 ## 📥 Yêu Cầu Hệ Thống
 
