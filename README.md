@@ -14,27 +14,17 @@ Hệ thống là một nền tảng phần mềm kết hợp với mô hình đi
 
 ## 💻 Danh Sách Các Chức Năng Của Hệ Thống
 
-__Bộ Phận Phân Tích Hình Ảnh__
-- [x] Phát hiện vật thể với mô hình học máy YOLO tự huấn luyện
-- [x] Gửi cảnh báo đến thiết bị nhận cảnh báo từ xe thông qua sóng ESP-NOW
+__Mô Hình Thiết Lập Phần Cứng__
+- [x] Tương thích với các drone cơ bản không yêu cầu máy tính nhúng riêng biệt
+- [x] Nhận lệnh điều khiển từ mặt đất
 
-__Bộ Phận Cảnh Báo Từ Xa__
-- [x] Nhận cảnh báo qua sóng ESP-NOW
+__Phần Mềm Điều Khiển__
+- [x] Phát hiện các đối tượng vật thể trong khung hình
 - [x] Cảnh báo dựa trên thông điệp nhận được kết hợp cài đặt trường hợp cảnh báo
 - [ ] Giao diện người dùng đẹp sử dụng SquareLine Studio
 - [ ] Lưu lịch sử cảnh báo
 - [ ] Có cổng kết nối thiết bị ngoại vi
-- [x] Báo mất kết nối với trung tâm điều khiển
-
-__Bộ Phận Theo Dõi Tự Động__
-- [x] Tự động xoay camera theo đối tượng vi phạm phát hiện được
-
-__Ứng Dụng Điều Khiển Window__
-- [x] Whole system work right in Windows OS
-- [x] Control UI
-- [x] Display realtime video
-- [x] Select prohibited objects in each area
-- [ ] Running with every PC
+- [x] Báo mất kết nối với drone
 
 
 
