@@ -2,7 +2,7 @@
 
 # YOLO MadDog
 
-[Click here for English](https://github.com/kysutrung/yolo_watchdog/blob/main/ENG_README.md)
+[Click here for English](https://www.youtube.com/shorts/F-JnS-b4YgA)
 
 Hệ thống phần mềm và mô hình điều khiển tự hành đa nhiệm cho drone nền ArduPilot
 
@@ -10,7 +10,7 @@ Keyword: automation, computer vision, rescue drone, kamikaze drone.
 
 ## 📑 Mô Tả Dự Án
 
-Hệ thống là một nền tảng phần mềm kết hợp với mô hình điều khiển tự hành, được phát triển nhằm mở rộng năng lực cho các drone sử dụng ArduPilot. Giải pháp cho phép chuyển đổi nhiều cấu hình drone khác nhau thành phương tiện bay tự động có khả năng thực hiện nhiệm vụ theo kịch bản được thiết lập trước hoặc được điều phối theo thời gian thực. Hệ thống hỗ trợ quản lý nhiệm vụ, điều hướng tự động, phối hợp tác vụ và thích ứng với nhiều mục đích sử dụng như cứu trợ, giám sát, hậu cần hoặc các nhiệm vụ chuyên biệt khác. Với kiến trúc linh hoạt và khả năng tích hợp cao, giải pháp góp phần nâng cao mức độ tự động hóa, tính sẵn sàng triển khai và hiệu quả vận hành của drone trong môi trường thực tế.
+Hệ thống là một nền tảng phần mềm kết hợp với mô hình điều khiển tự hành, được phát triển nhằm mở rộng năng lực cho các drone sử dụng [ArduPilot](https://github.com/ArduPilot). Giải pháp cho phép chuyển đổi nhiều cấu hình drone khác nhau thành phương tiện bay tự động có khả năng thực hiện nhiệm vụ theo kịch bản được thiết lập trước hoặc được điều phối theo thời gian thực. Hệ thống hỗ trợ quản lý nhiệm vụ, điều hướng tự động, phối hợp tác vụ và thích ứng với nhiều mục đích sử dụng như cứu trợ, giám sát, hậu cần hoặc các nhiệm vụ chuyên biệt khác. Với kiến trúc linh hoạt và khả năng tích hợp cao, giải pháp góp phần nâng cao mức độ tự động hóa, tính sẵn sàng triển khai và hiệu quả vận hành của drone trong môi trường thực tế.
 
 ## 💻 Danh Sách Các Chức Năng Của Hệ Thống
 
