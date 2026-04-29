@@ -1,6 +1,6 @@
 ![Photo01](https://github.com/kysutrung/yolo_maddog_public/blob/main/media_00/repo_cover_yolo_maddog.png)
 
-# YOLO MadDog
+# YOLO MadDog [TEST]
 
 [Click here for English](https://www.youtube.com/shorts/F-JnS-b4YgA)
 
